@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is John George and I'm a Full-stack devloper, from Trivandrum</h2>
+<h2 align="left">Hi 👋! My name is John George and I'm a Full-stack developer, from Trivandrum</h2>
 
 ###
 
