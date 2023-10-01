@@ -28,13 +28,11 @@
   <img width="12" />
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></a>
   <img width="12" />
-  <br/>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" /></a>
   <img width="12" />
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" /></a>
   <img width="12" />
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /></a>
-  <img width="12" />
+  <br/>
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /></a>
   <img width="12" />
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /></a>
@@ -43,7 +41,6 @@
   <img width="12" />
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" /></a>
   <img width="12" />
-  <br/>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" /></a>
   <img width="12" />
   <a href="https://material-ui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" /></a>
